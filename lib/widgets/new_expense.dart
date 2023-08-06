@@ -355,7 +355,7 @@ class _NewExpenseState extends State<NewExpense> {
                   //ignore:
                   //  print(_titleController.text);
                   // print(_amountController);
-                  // widget.onAddExpense(Expense(title: _titleController, amount: _amountController, date: _selectedDate, category: _))
+                  
                 },
                 style: ButtonStyle(
                   elevation: const MaterialStatePropertyAll(26),
